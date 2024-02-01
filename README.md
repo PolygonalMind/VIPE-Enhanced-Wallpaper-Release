@@ -9,5 +9,7 @@ We believe that this API will greatly enhance the user experience by providing a
 
 Thank you for your attention, and we look forward to your feedback as we continue to improve and expand upon this offering.
 
+Link: https://polygonalmind.github.io/VIPE-Enhanced-Wallpaper-Release/index.html
+
 Sincerely,
 Polygonal Mind
